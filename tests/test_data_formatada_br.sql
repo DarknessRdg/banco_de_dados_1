@@ -1,0 +1,1 @@
+select data_para_padrao_br('2021-12-1');
